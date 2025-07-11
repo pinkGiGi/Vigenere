@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9696bcc4-5d96-4fe9-9e68-447e1c564181" /># PicoCTF 2022: Vigenere Cipher Solution
+# PicoCTF 2022: Vigenere Cipher Solution
 This article details the solution to the "Vigenere" cryptography challenge from PicoCTF 2022. This challenge is an excellent introduction to classical ciphers and the importance of understanding their basic principles.
 
 ![Screenshot](screenshot0.png "challenge description")
