@@ -1,4 +1,4 @@
-# PicoCTF 2022: Vigenere Cipher Solution
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9696bcc4-5d96-4fe9-9e68-447e1c564181" /># PicoCTF 2022: Vigenere Cipher Solution
 This article details the solution to the "Vigenere" cryptography challenge from PicoCTF 2022. This challenge is an excellent introduction to classical ciphers and the importance of understanding their basic principles.
 
 ![Screenshot](screenshot0.png "challenge description")
@@ -9,7 +9,7 @@ The "Vigenere" challenge presents a ciphertext and a key, asking us to decrypt t
 
 Ciphertext: `rgno0VD{00NU_WQ3_G1G303T3_A1AH3S_2951c89f}`
 
-Key: CYLAB
+Key: `CYLAB`
 
 Our goal is to find the plaintext, which will contain the flag in the picoCTF{FLAG} format.
 
@@ -24,7 +24,7 @@ We input the ciphertext into the "VIGENERE CIPHERTEXT" field and the key "CYLAB"
 
 Upon clicking "DECRYPT", the tool processes the input and reveals the plaintext. The decrypted message, which contains the picoCTF flag, is:
 
-picoCTF{DONT_US3_V1G3N3R3_C1PH3R_2951a89h}
+`picoCTF{DONT_US3_V1G3N3R3_C1PH3R_2951a89h}`
 
 # Conclusion
 This challenge demonstrates a practical application of classical cryptography and how readily available tools can assist in their decryption. While the Vigenere cipher was considered strong in its time, modern cryptographic methods are far more complex and secure. Solving such challenges helps in understanding the foundational concepts of cryptography.
