@@ -1,6 +1,8 @@
 # PicoCTF 2022: Vigenere Cipher Solution
 This article details the solution to the "Vigenere" cryptography challenge from PicoCTF 2022. This challenge is an excellent introduction to classical ciphers and the importance of understanding their basic principles.
 
+[Link to the challenge](https://play.picoctf.org/practice/challenge/316?bookmarked=1&category=2&page=1&search=)
+
 ![Screenshot](screenshot0.png "challenge description")
 
 The "Vigenere" challenge presents a ciphertext and a key, asking us to decrypt the message. The problem statement is straightforward: "Can you decrypt this message? Decrypt this message using this key 'CYLAB'."
