@@ -7,7 +7,7 @@ The "Vigenere" challenge presents a ciphertext and a key, asking us to decrypt t
 
 # From the challenge page, we are given the following crucial pieces of information:
 
-Ciphertext: rgno0VD{00NU_WQ3_G1G303T3_A1AH3S_2951c89f}
+Ciphertext: `rgno0VD{00NU_WQ3_G1G303T3_A1AH3S_2951c89f}`
 
 Key: CYLAB
 
